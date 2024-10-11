@@ -1,3 +1,5 @@
+![neural](https://github.com/user-attachments/assets/9146e85c-f986-4942-a23b-5692cdb2e143)
+
 Neural Network using Pthreads in C++
 
 This project implements a prediction model that simulates the neural network using pthreads in C++. Each neuron is represented as a separate pthread, enabling parallelized computation and eliminating the need for mutex locks. The model is optimized using vectors for efficient data handling and supports dynamic neural network configurations.
